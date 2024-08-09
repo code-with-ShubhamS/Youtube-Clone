@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-     {/* <FetchingAllData /> */}
+     <FetchingAllData />
      <Header/>
      <Outlet/>
 
